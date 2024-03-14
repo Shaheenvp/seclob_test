@@ -282,7 +282,7 @@ class _HomeState extends State<Home> {
                         ),
                         VerticalDivider(),
                         Text(
-                          'Photos',
+                          'Vedios',
                           style: TextStyle(
                               color: Colors.black45,
                               fontWeight: FontWeight.w700),
